@@ -1,0 +1,10 @@
+import io
+
+# 1. BASE DE DADOS (Simulando o arquivo CSV expandido)
+dados_csv = 
+"""Regiao,Populacao,Area_km2,Densidade,Clima,Vegetacao,PIB_Participacao,IDH,Pluviosidade_mm,Desafio_Ambiental
+Norte,17300000,3853000,4.5,Equatorial,Floresta Amazônica,6.0,0.730,2300,Desmatamento ilegal
+Nordeste,54600000,1554000,35.1,Semiárido,Caatinga,14.0,0.710,800,Desertificação e Seca
+Centro-Oeste,16300000,1606000,10.1,Tropical,Cerrado,10.0,0.789,1500,Avanço da Fronteira Agrícola
+Sudeste,84800000,924000,91.7,Tropical Atlântico,Mata Atlântica,53.0,0.795,1400,Poluição e Pressão Urbana
+Sul,30000000,576000,52.1,Subtropical,Mata de Araucárias,17.0,0.792,1600,Degradação da vegetação nativa"""
